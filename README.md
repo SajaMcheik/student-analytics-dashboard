@@ -1,14 +1,16 @@
-Student Analytics Dashboard
+# Student Analytics Dashboard
 Streamlit-based student analytics dashboard
 
-1. Install Libraries
-Run this in the first cell in Google Colab:
+## 1. Install Libraries
+Run this in the **first cell** in Google Colab:
 
-bash
+```bash
 !pip install streamlit plotly pandas openpyxl --quiet
 !npm install -g localtunnel --quiet
 print("✅ Libraries installed!")
-2. Upload Dataset
+
+
+## 2.Upload Dataset
 Upload your dataset (Excel/CSV) to Colab.
 
 3. Run app.py
