@@ -10,15 +10,12 @@ Run this in the **first cell** in Google Colab:
 print("✅ Libraries installed!")
 
 
-## 2.Upload Dataset
-Upload your dataset (Excel/CSV) to Colab.
+
+2 upload dataset
 
 3. Run app.py
-Run the app in cell 2:
+Run the app in cell 2 showed in github
 
-python
-# Clone the repository or upload app.py
-!wget -O app.py https://raw.githubusercontent.com/your-repo/app.py
 4. Run Setup Code
 Run this in another cell:
 
@@ -37,3 +34,6 @@ Open the URL provided by localtunnel
 Enter the IP address shown in step 2
 
 The dashboard will appear
+
+
+
