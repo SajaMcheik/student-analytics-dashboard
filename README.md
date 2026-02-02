@@ -2,9 +2,9 @@
 Streamlit-based student analytics dashboard
 
 1 Install Libraries in the first cell in google colab:
-!pip install streamlit plotly pandas openpyxl --quiet
-#!npm install -g localtunnel --quiet
-#print("✅ Libraries installed!")
+                  # !pip install streamlit plotly pandas openpyxl --quiet
+                  # !npm install -g localtunnel --quiet
+                  # print("✅ Libraries installed!")
 
 
 2 upload dataset
