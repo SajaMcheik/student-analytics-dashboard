@@ -12,9 +12,9 @@ print("✅ Libraries installed!")
 
 
 
-## 2 upload dataset
+## 2. upload dataset
 
-## 3.Add app.py
+## 3. Add app.py
 as shown in the GitHub repo
 
 ## 4. Run Setup Code
